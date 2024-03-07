@@ -1,6 +1,7 @@
 # Create a Voice Assistant with OpenAI's GPT-3 and IBM Watson
-## Contributors : Talha Siddiqui
-## Contributors : Arora
+## Authors : 
+- Talha Siddiqui
+- Arora
 
 Mentee Assignment from IBM Academy Advance AI @Infinite Learning
 Course Completion of Create a Voice Assistant with OpenAI's GPT-3 and IBM Watson
